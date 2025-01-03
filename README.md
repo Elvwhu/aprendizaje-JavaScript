@@ -45,4 +45,12 @@ Dominar JavaScript desde lo más básico hasta conceptos avanzados, aplicando lo
 
 ---
 
+## 🌐 Encuéntrame en redes sociales  
+¡Conéctate conmigo en mis redes!  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-naranjo-/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Elvwhu)  
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/elvwhu/)  
+
+---
+
 ¡Estoy emocionado de compartir mi viaje y seguir aprendiendo cada día más! 😊 Siéntete libre de explorar el repositorio y dejar tus comentarios o sugerencias.  
